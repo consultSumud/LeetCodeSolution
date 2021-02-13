@@ -24,7 +24,7 @@ package leet.algorithm.solution;
  *  * ParkingSystem obj = new ParkingSystem(big, medium, small);
  *  * boolean param_1 = obj.addCar(carType);
  *  */
- */
+
 public class ParkingLotSystem {
 
     int big;
